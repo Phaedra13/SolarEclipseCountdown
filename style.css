@@ -92,3 +92,29 @@
   margin:0;
   font-size: 7rem;
 }
+
+@media screen and (max-width:1450px){
+    .countdown div p{
+    
+        justify-content: center;
+        font-size: 20px;
+        margin-bottom: -8px;
+    }
+    .countdown{
+        display:grid;
+        align-items: center;
+        justify-content: center;
+        gap:10px;
+        color: whitesmoke;
+    }
+    .colon {
+        padding: 0;
+        margin:0;
+        font-size: 0rem;
+    }
+    .title{
+        font-size: 3rem ;
+        margin-bottom: 50px;
+    }
+
+} 
