@@ -121,5 +121,8 @@
     .content{
         top:0%;
     }
+    .content button{
+        margin-top: 100px;
+    }
 }
 
